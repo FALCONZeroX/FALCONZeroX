@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 IT Student<br>🎮 Big Gamer<br>🎨 Graphic Designer<br>👨‍💻 Future Software Engineer<br>🧠 Problem Solver
+Hello I'm FALAH FATHEL (FALCON)
+<br> 💻 IT Student<br>🎮 Big Gamer<br>🎨 Graphic Designer<br>👨‍💻 Future Software Engineer<br>🧠 Problem Solver
 
 
 ## 🌐 Socials:
