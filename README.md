@@ -4,7 +4,7 @@ Hello I'm FALAH FATHEL (FALCON)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falah-fathel-falcon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:falahfathel775@gmail.com)[![Telegram](https://img.shields.io/badge/Telegram-%2326A8E1.svg?logo=telegram&logoColor=white)](https://t.me/FALCONZeroX9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falah-fathel-falcon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:falahfathel775@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%2326A8E1.svg?logo=telegram&logoColor=white)](https://t.me/FALCONZeroX9)
 
 
 
